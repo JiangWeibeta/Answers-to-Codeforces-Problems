@@ -50,6 +50,5 @@ int main()
         ans = max(ans, min(front[i], back[i]));
     }
     cout << ans << endl;
-    system("pause");
     return 0;
 }
